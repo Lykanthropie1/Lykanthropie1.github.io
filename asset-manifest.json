@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9fca9ca.css",
+    "main.js": "/static/js/main.1a46687a.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/monastyr.jpeg": "/static/media/monastyr.d055d0f9a2cb071fb551.jpeg",
+    "static/media/lenin.webp": "/static/media/lenin.4dcf32f7e52004a68ee0.webp",
+    "static/media/background.jpeg": "/static/media/background.6b88c0b5268826c39871.jpeg",
+    "static/media/soldat.jpeg": "/static/media/soldat.24abe4dfef964cfaddc7.jpeg",
+    "static/media/Barish_srulpura.jpg": "/static/media/Barish_srulpura.d87568d2320186408fc3.jpg",
+    "static/media/sedov2.jpeg": "/static/media/sedov2.d3aace21938e8e614ae1.jpeg",
+    "static/media/sobor.jpeg": "/static/media/sobor.ef15e55a544f2ab38a20.jpeg",
+    "static/media/sedov.jpeg": "/static/media/sedov.bcf7bd890fa251be5f3d.jpeg",
+    "static/media/Samorodki.jpg": "/static/media/Samorodki.d27a238122a3174271d0.jpg",
+    "static/media/Izmailovo_skorbayshay.jpg": "/static/media/Izmailovo_skorbayshay.eb40a48c47429f935e5e.jpg",
+    "static/media/bolnichnyi.jpeg": "/static/media/bolnichnyi.25d8e2a25f68359f46d7.jpeg",
+    "static/media/Barish_stella.jpg": "/static/media/Barish_stella.883a359b3ecccdf10c47.jpg",
+    "static/media/fabric.jpeg": "/static/media/fabric.55e4cfe00399e10dc5a5.jpeg",
+    "static/media/bashnya.jpeg": "/static/media/bashnya.c513dff37186c000e3eb.jpeg",
+    "static/media/troizkaya.jpeg": "/static/media/troizkaya.5e72841dc440944139d2.jpeg",
+    "static/media/akchuriny.jpeg": "/static/media/akchuriny.2b2763f18a770f349170.jpeg",
+    "static/media/Gadovka-300x149.jpg": "/static/media/Gadovka-300x149.da3e3c9af3e14d726b7f.jpg",
+    "static/media/gerb_raiona.jpeg": "/static/media/gerb_raiona.96088884c894ffac7ffe.jpeg",
+    "index.html": "/index.html",
+    "main.c9fca9ca.css.map": "/static/css/main.c9fca9ca.css.map",
+    "main.1a46687a.js.map": "/static/js/main.1a46687a.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9fca9ca.css",
+    "static/js/main.1a46687a.js"
+  ]
+}
